@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
-$db = 'dbstorage23360859076';
-$user = 'dbusr23360859076';
-$pass = '9UlBFiS4sNAe';
+$db = 'veritabani_adi';
+$user = 'kullanici_adi';
+$pass = 'sifre';
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$db;charset=utf8", $user, $pass);
     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
