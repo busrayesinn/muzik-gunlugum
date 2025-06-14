@@ -19,7 +19,7 @@ Proje tamamen **PHP (frameworksüz)** ve **MySQL** ile geliştirilmiştir.
 
 ## 🎥 Tanıtım Videosu
 
-[Tanıtım videosunu izlemek için tıklayınız.](https://youtu.be/example)
+[Tanıtım videosunu izlemek için tıklayınız.](https://youtu.be/w0t9gJrddkE?si=c_j1LeMblF2hhRMv)
 
 ---
 
