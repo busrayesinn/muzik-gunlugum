@@ -28,7 +28,6 @@ Proje tamamen **PHP (frameworksüz)** ve **MySQL** ile geliştirilmiştir.
 * **Backend:** PHP (Pure)
 * **Veritabanı:** MySQL
 * **Frontend:** HTML, CSS, Bootstrap 5
-* **Yardımcı Teknolojiler:** JavaScript (temel seviye)
 
 ---
 
